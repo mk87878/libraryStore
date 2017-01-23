@@ -7,7 +7,7 @@
  */
 
 date_default_timezone_set("Asia/Shanghai");//时区
-$dsn = 'mysql:dbname=conference;host=127.0.0.1';//定义数据源
+$dsn = 'mysql:dbname=library;host=127.0.0.1';//定义数据源
 $user = 'root';//用户名
 $passWord = '';//密码
 try{
